@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 import { Image, View, ScrollView } from 'react-native';
-import { ShadowedView, shadowStyle } from 'react-native-fast-shadow';
+import { ShadowedView, shadowStyle } from '@moyu-startup/react-native-fast-shadow';
 import Animated, {
   useSharedValue,
   withTiming,

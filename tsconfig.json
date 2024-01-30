@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-fast-shadow": ["./src/index"]
+      "@moyu-startup/react-native-fast-shadow": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
